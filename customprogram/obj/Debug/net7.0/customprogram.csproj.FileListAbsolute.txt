@@ -1,0 +1,15 @@
+C:\Swinburne SEM2\OOP\customprogram\customprogram\customprogram\bin\Debug\net7.0\customprogram.exe
+C:\Swinburne SEM2\OOP\customprogram\customprogram\customprogram\bin\Debug\net7.0\customprogram.deps.json
+C:\Swinburne SEM2\OOP\customprogram\customprogram\customprogram\bin\Debug\net7.0\customprogram.runtimeconfig.json
+C:\Swinburne SEM2\OOP\customprogram\customprogram\customprogram\bin\Debug\net7.0\customprogram.dll
+C:\Swinburne SEM2\OOP\customprogram\customprogram\customprogram\bin\Debug\net7.0\customprogram.pdb
+C:\Swinburne SEM2\OOP\customprogram\customprogram\customprogram\obj\Debug\net7.0\customprogram.csproj.AssemblyReference.cache
+C:\Swinburne SEM2\OOP\customprogram\customprogram\customprogram\obj\Debug\net7.0\customprogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Swinburne SEM2\OOP\customprogram\customprogram\customprogram\obj\Debug\net7.0\customprogram.AssemblyInfoInputs.cache
+C:\Swinburne SEM2\OOP\customprogram\customprogram\customprogram\obj\Debug\net7.0\customprogram.AssemblyInfo.cs
+C:\Swinburne SEM2\OOP\customprogram\customprogram\customprogram\obj\Debug\net7.0\customprogram.csproj.CoreCompileInputs.cache
+C:\Swinburne SEM2\OOP\customprogram\customprogram\customprogram\obj\Debug\net7.0\customprogram.dll
+C:\Swinburne SEM2\OOP\customprogram\customprogram\customprogram\obj\Debug\net7.0\refint\customprogram.dll
+C:\Swinburne SEM2\OOP\customprogram\customprogram\customprogram\obj\Debug\net7.0\customprogram.pdb
+C:\Swinburne SEM2\OOP\customprogram\customprogram\customprogram\obj\Debug\net7.0\customprogram.genruntimeconfig.cache
+C:\Swinburne SEM2\OOP\customprogram\customprogram\customprogram\obj\Debug\net7.0\ref\customprogram.dll
